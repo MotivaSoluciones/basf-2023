@@ -4240,11 +4240,12 @@ FOOTER
 
 .footer .footer-bottom {
     margin-top: 40px;
-    background: #464646;
+    background: #1fa0d2;
 }
 
 .footer .footer-bottom p {
     margin-top: 22px;
+    color: #fff;
 }
 
 .footer .payment {
